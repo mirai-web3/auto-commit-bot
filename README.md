@@ -1,4 +1,4 @@
-# Auto-Commit Bot 🤖
+# Auto Commit Bot 🤖
 
 Automatically commit changes to your repository through GitHub Actions with customizable schedules.
 
