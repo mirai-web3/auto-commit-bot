@@ -44,7 +44,7 @@ jobs:
       - name: Setup Git
         run: |
           git config --global user.email "your-email@example.com"
-          git config --global user.name "Auto Commit Bot"
+          git config --global user.name "username"
           
       - name: Commit changes
         id: commit
